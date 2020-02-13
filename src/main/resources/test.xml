@@ -1,0 +1,8 @@
+<a>
+    <b>1</b>
+    <b>2</b>
+    <b>3</b>
+    <c c1="test">
+        <cc cc1="test-cc">test-cc</cc>
+    </c>
+</a>
